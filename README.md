@@ -1,4 +1,4 @@
-# Oceanus: The Underwater Adventure
+# Oceanus: The Underwater Adventure Game
 
 **Author:** Zainub Siddiqui  
 **Course:** CS302 – Program 4/5  
