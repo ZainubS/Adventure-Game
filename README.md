@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-*Oceanus: The Underwater Adventure Game* is a **text-based RPG** where you play as **Oceanus**, a fearless ocean explorer. Venture into the mysterious underwater world to uncover the lost city of **Areadon**. Encounter sea creatures, collect keys, fight monsters, and manage your inventory to survive the depths!
+*Oceanus: The Underwater Adventure Game* is a **text-based RPG** where you play as **Oceanus**, a fearless ocean explorer. Venture into the mysterious underwater world to uncover the lost city of **Areadon**. Encounter sea creatures, collect keys, fight monsters, and manage your inventory to survive the depths.
 
 ---
 
